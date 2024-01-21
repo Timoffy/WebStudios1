@@ -1,0 +1,45 @@
+/* ====================================Шапка================================= */
+header{
+    width: 555px;
+    height: 19px;
+    margin-top: 41px;
+    margin-left: 1px;
+}
+/* ===================================Блоки================================= */
+.menu{
+    display: flex;
+    margin-left: 400px;
+    gap: 100px;
+
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #7D7D7D;
+   
+}
+.el1{
+    color: #03A9F4;
+}
+.section_1_wrap{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 43px;
+    gap: 65px;
+}
+.section_1_text{
+    width: 420px;
+}
+/* =================================Кнопка=============================== */
+button{
+    width: 165px;
+    height: 60px;
+    margin-top: 90px;
+    margin-left: 660px;
+}
+/*З кнопкою допомагав Олексій*/
